@@ -48,6 +48,7 @@ Open-API 是一个强大的工具，允许用户自定义 API 请求并以美观
    "code": 200,
    "data": {
         "image": "https://<域名>/image.png"
+   }
 }
 ```
 填写data,image字段即可
